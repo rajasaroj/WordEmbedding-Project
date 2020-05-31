@@ -2,6 +2,11 @@ This is the First word embending project
 
 Wordembeding is recrated with this reference
 
+model tested on words like "machine
+unix
+windows
+cpu" etc
+
 Thanks to pierremegret
 https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial
 
